@@ -30,9 +30,9 @@ The system is designed with the following steps:
 ### 2. Database Setup  
 1. Open XAMPP Control Panel and start Apache and MySQL.  
 2. Type `localhost/phpmyadmin` in any browser.  
-3. Create a new database named `expense_budget_db`.  
+3. Create a new database named `expense_tracker`.  
 4. Import the provided SQL file:  
-   - File: `expense_budget_db.sql`  
+   - File: `schema.sql`  
    - Wait for a successful import message.  
 
 ### 3. Front-End Setup  
